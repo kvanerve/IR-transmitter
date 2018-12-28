@@ -3,7 +3,9 @@
 IR-transmitter for Particle (2nd and 3th generation (Mesh)
 
 Version 1.0 December, 2018
+
 By Koen van Erve
+
 For details, see https://github.com/kvanerve/IR-transmitter
 Based on the IRRemote library: https://github.com/babean/IRRemote
 Edited to remove the SparkIntervalTimer.h dependency
