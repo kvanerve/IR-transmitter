@@ -1,6 +1,6 @@
 # IR-transmitter
 
-IR-transmitter for Particle (2nd and 3th generation (Mesh)
+IR-transmitter for Particle (2nd and 3th generation (Mesh) \n
 Version 1.0 December, 2018
 By Koen van Erve
 For details, see https://github.com/kvanerve/IR-transmitter
